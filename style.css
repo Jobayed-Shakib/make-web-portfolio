@@ -1,0 +1,93 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+#name-color{
+    font-size: 50px;
+    color: rgba(255, 20, 145, 0.918);
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.background-bannar{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;
+}
+section{
+    height: 500px;  
+    padding-bottom: 100px; 
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(30deg, deeppink, rgb(243, 10, 134)
+    );
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-size: 400;
+
+}
+p{
+    font-size: 20px;
+}
+.background-biography{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;
+}
+.recent-work{
+    width: 25%;
+    float: left;
+    margin: 0%;
+    padding: 3%;
+}
+img{
+    width: 100%;
+}
+.latest-work{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;
+}
+.footer-center{
+    text-align: center;
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;
+}
+#small{
+    font-size: 6px;
+}
+#lorem-ipsum{
+    font-weight: 900;
+    
+}
+.programming-hero{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, deeppink, rgb(243, 10, 134)
+    );
+    border-radius: 10px;
+    font-size: 400;
+    display: inline-block;
+    padding: 15px 40px;
+}
+#copy-right{
+    text-align: center;
+}
+#hyper-link{
+    font-size: xx-small;
+}
